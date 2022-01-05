@@ -21,3 +21,15 @@ h1 {
     padding-right: 6px;
     padding-top: 3px;
 }
+
+.div1 {
+    display: ruby;
+    float: left;
+    width: 50%;
+}
+
+.div2 {
+    display: ruby;
+    float: right;
+    width: 50%;
+}
